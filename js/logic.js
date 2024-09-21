@@ -17,9 +17,6 @@ if(pinNumber === '1234'){
 
     const finalBalance = balanceNumber + newMoney ;
 
-
-    console.log(finalBalance);
-
      document.getElementById('current-balance').innerText = finalBalance;
 
 
